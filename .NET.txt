@@ -1,0 +1,17 @@
+swagger -> controller -> service (request channel)
+
+service - > controller -> swagger (response channel)
+
+controller: only call the service
+service : have business logic
+swagger: UI
+
+
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjQ5MzEwM2UtOTMyNC00ZGFmLWFiZmQtMWQ3YTg1NGFhM2Ri%40thread.v2/0?context=%7b%22Tid%22%3a%2266c5be6d-b895-4170-9fe4-1d29253008f0%22%2c%22Oid%22%3a%22282dc398-f94a-4374-b506-45b2cfc95304%22%7d
+
+
+add scope singlatone , transiyan
+
+
+object relationalship mapper

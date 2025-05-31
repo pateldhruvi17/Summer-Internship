@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\summer internship\\Book Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E7D933-95FE-450A-887A-ED4E4353CA5C}|Book Management\\Book_Management.csproj|e:\\summer internship\\book management\\book management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E7D933-95FE-450A-887A-ED4E4353CA5C}|Book Management\\Book_Management.csproj|solutionrelative:book management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\summer internship\\Book Management\\Book Management\\Program.cs",
+              "RelativeDocumentMoniker": "Book Management\\Program.cs",
+              "ToolTip": "E:\\summer internship\\Book Management\\Book Management\\Program.cs",
+              "RelativeToolTip": "Book Management\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:42:27.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

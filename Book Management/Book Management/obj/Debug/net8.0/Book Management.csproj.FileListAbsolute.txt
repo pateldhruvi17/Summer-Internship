@@ -1,0 +1,31 @@
+D:\summer internship\Book Management\Book Management\bin\Debug\net8.0\appsettings.Development.json
+D:\summer internship\Book Management\Book Management\bin\Debug\net8.0\appsettings.json
+D:\summer internship\Book Management\Book Management\bin\Debug\net8.0\Book Management.staticwebassets.endpoints.json
+D:\summer internship\Book Management\Book Management\bin\Debug\net8.0\Book Management.exe
+D:\summer internship\Book Management\Book Management\bin\Debug\net8.0\Book Management.deps.json
+D:\summer internship\Book Management\Book Management\bin\Debug\net8.0\Book Management.runtimeconfig.json
+D:\summer internship\Book Management\Book Management\bin\Debug\net8.0\Book Management.dll
+D:\summer internship\Book Management\Book Management\bin\Debug\net8.0\Book Management.pdb
+D:\summer internship\Book Management\Book Management\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\summer internship\Book Management\Book Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\summer internship\Book Management\Book Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\summer internship\Book Management\Book Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\summer internship\Book Management\Book Management\obj\Debug\net8.0\Book Management.csproj.AssemblyReference.cache
+D:\summer internship\Book Management\Book Management\obj\Debug\net8.0\Book Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\summer internship\Book Management\Book Management\obj\Debug\net8.0\Book Management.AssemblyInfoInputs.cache
+D:\summer internship\Book Management\Book Management\obj\Debug\net8.0\Book Management.AssemblyInfo.cs
+D:\summer internship\Book Management\Book Management\obj\Debug\net8.0\Book Management.csproj.CoreCompileInputs.cache
+D:\summer internship\Book Management\Book Management\obj\Debug\net8.0\Book Management.MvcApplicationPartsAssemblyInfo.cs
+D:\summer internship\Book Management\Book Management\obj\Debug\net8.0\Book Management.MvcApplicationPartsAssemblyInfo.cache
+D:\summer internship\Book Management\Book Management\obj\Debug\net8.0\scopedcss\bundle\Book Management.styles.css
+D:\summer internship\Book Management\Book Management\obj\Debug\net8.0\staticwebassets.build.json
+D:\summer internship\Book Management\Book Management\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\summer internship\Book Management\Book Management\obj\Debug\net8.0\staticwebassets.development.json
+D:\summer internship\Book Management\Book Management\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\summer internship\Book Management\Book Management\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\summer internship\Book Management\Book Management\obj\Debug\net8.0\Book Man.2D957F58.Up2Date
+D:\summer internship\Book Management\Book Management\obj\Debug\net8.0\Book Management.dll
+D:\summer internship\Book Management\Book Management\obj\Debug\net8.0\refint\Book Management.dll
+D:\summer internship\Book Management\Book Management\obj\Debug\net8.0\Book Management.pdb
+D:\summer internship\Book Management\Book Management\obj\Debug\net8.0\Book Management.genruntimeconfig.cache
+D:\summer internship\Book Management\Book Management\obj\Debug\net8.0\ref\Book Management.dll
